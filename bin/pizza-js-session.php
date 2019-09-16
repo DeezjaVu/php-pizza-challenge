@@ -5,7 +5,7 @@ session_start();
  * Returns a unique session id (timestamp) as JSON formatted string.
  * If the session id doesn't exist, it is created.
  *
- * You'd normaaly prevent direct access to this script file,
+ * You'd normally prevent direct access to this script file,
  * but for testing purposes this is omitted.
  */
 
@@ -22,5 +22,5 @@ $json = json_encode($aarr);
 // We'll be outputting a JSON formatted string
 header('Content-Type: application/json');
 
-// return the JSON data
+// Return the JSON data
 echo $json;
