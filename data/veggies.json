@@ -1,0 +1,50 @@
+[
+    {
+        "id": "veg-tomato",
+        "label": "Tomatoes",
+        "value": "vegTomatoes",
+        "price": 1
+    },
+    {
+        "id": "veg-onions",
+        "label": "Onions",
+        "value": "vegOnions",
+        "price": 1
+    },
+    {
+        "id": "veg-pineapple",
+        "label": "Pineapple",
+        "value": "vegPineapple",
+        "price": 1
+    },
+    {
+        "id": "veg-olives",
+        "label": "Olives",
+        "value": "vegOlives",
+        "price": 1
+    },
+    {
+        "id": "veg-peppers",
+        "label": "Green Peppers",
+        "value": "vegGreenPeppers",
+        "price": 1
+    },
+    {
+        "id": "veg-mushrooms",
+        "label": "Mushrooms",
+        "value": "vegMushrooms",
+        "price": 1
+    },
+    {
+        "id": "veg-spinach",
+        "label": "Spinach",
+        "value": "vegSpinach",
+        "price": 1
+    },
+    {
+        "id": "veg-anchovies",
+        "label": "Anchovies",
+        "value": "vegAnchovies",
+        "price": 1
+    }
+]

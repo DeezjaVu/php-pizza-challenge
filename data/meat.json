@@ -1,0 +1,26 @@
+[
+    {
+        "id": "meat-pepper",
+        "label": "Pepperoni",
+        "value": "meatPepperoni",
+        "price": 1
+    },
+    {
+        "id": "meat-sausage",
+        "label": "Sausage",
+        "value": "meatSausage",
+        "price": 1
+    },
+    {
+        "id": "meat-canadian-bacon",
+        "label": "Canadian Bacon",
+        "value": "meatCanadianBacon",
+        "price": 2
+    },
+    {
+        "id": "meat-ground-beef",
+        "label": "Ground Beef",
+        "value": "meatGroundBeef",
+        "price": 2
+    }
+]

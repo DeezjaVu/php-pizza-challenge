@@ -1,0 +1,26 @@
+[
+    {
+        "id": "sauce-none",
+        "label": "None",
+        "value": "sauceNone",
+        "price": 0
+    },
+    {
+        "id": "sauce-marinara",
+        "label": "Marinara",
+        "value": "sauceMarinara",
+        "price": 1
+    },
+    {
+        "id": "sauce-white",
+        "label": "White",
+        "value": "sauceWhite",
+        "price": 1
+    },
+    {
+        "id": "sauce-bbq",
+        "label": "BBQ",
+        "value": "sauceBBQ",
+        "price": 1
+    }
+]

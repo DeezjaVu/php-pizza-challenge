@@ -1,0 +1,26 @@
+[
+    {
+        "id": "size-sm",
+        "label": "Small",
+        "value": "small",
+        "price": 6
+    },
+    {
+        "id": "size-med",
+        "label": "Medium",
+        "value": "medium",
+        "price": 8
+    },
+    {
+        "id": "size-lg",
+        "label": "Large",
+        "value": "large",
+        "price": 10
+    },
+    {
+        "id": "size-xl",
+        "label": "Extra Large",
+        "value": "xlarge",
+        "price": 12
+    }
+]

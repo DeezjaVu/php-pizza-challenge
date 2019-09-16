@@ -45,6 +45,8 @@ function orderClickHandler(event) {
             console.log(' - pizza:', pizza);
         }
         let json = JSON.stringify(pizza);
+        console.log(' - json body:', json);
+
         let headers = {
             'Accept': 'application/json, text/plain, */*',
             'Content-Type': 'application/json'

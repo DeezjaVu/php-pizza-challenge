@@ -1,0 +1,32 @@
+[
+    {
+        "id": "crust-plain",
+        "label": "Plain",
+        "value": "crustPlain",
+        "price": 0
+    },
+    {
+        "id": "crust-garlic-butter",
+        "label": "Garlic Butter",
+        "value": "crustGarlicButter",
+        "price": 1
+    },
+    {
+        "id": "crust-cheese-stuffed",
+        "label": "Cheese Stuffed",
+        "value": "crustCheeseStuffed",
+        "price": 1
+    },
+    {
+        "id": "crust-spicy",
+        "label": "Spicy",
+        "value": "crustSpicy",
+        "price": 1
+    },
+    {
+        "id": "crust-house-special",
+        "label": "House Special",
+        "value": "crustHouseSpecial",
+        "price": 2
+    }
+]

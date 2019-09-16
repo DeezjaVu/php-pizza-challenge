@@ -1,0 +1,20 @@
+[
+    {
+        "id": "cheese-none",
+        "label": "No Cheese",
+        "value": "cheeseNone",
+        "price": 0
+    },
+    {
+        "id": "cheese-regular",
+        "label": "Regular",
+        "value": "cheeseRegular",
+        "price": 1
+    },
+    {
+        "id": "cheese-extra",
+        "label": "Extra Cheese",
+        "value": "cheeseXtra",
+        "price": 2
+    }
+]
